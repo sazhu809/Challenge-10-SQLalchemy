@@ -54,10 +54,11 @@ Query the previous 12 months of TOBS data for that station.
 
 Now that you’ve completed your initial analysis, you’ll design a Flask API based on the queries that you just developed. To do so, use Flask to create your routes as follows:
 
+1. /
 
-Start at the homepage.
+   - Start at the homepage.
 
-List all the available routes.
+   - List all the available routes.
 
 /api/v1.0/precipitation
 
