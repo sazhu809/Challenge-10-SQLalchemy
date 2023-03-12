@@ -45,7 +45,7 @@ Filter by the station that has the greatest number of observations.
 4. Design a query to get the previous 12 months of temperature observation (TOBS) data. To do so, complete the following steps:
 Query the previous 12 months of TOBS data for that station.
 
-  ..* Filter by the station that has the greatest number of observations.
+  *Filter by the station that has the greatest number of observations.
   * Query the previous 12 months of TOBS data for that station.
   * Plot the results as a histogram with bins=12 
 
